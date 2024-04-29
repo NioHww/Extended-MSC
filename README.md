@@ -1,3 +1,3 @@
 # Extended-MSC
 
-Extended-MSC in 'Persona-based Dialogue Response Generation Using Personal Facts and Personality Traits' is available here: Link (to be adressed)
+Extended-MSC in 'Persona-based Dialogue Response Generation Using Personal Facts and Personality Traits' is available here
